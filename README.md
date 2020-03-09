@@ -13,5 +13,5 @@ Execute esse comando para instalatar todas as dependências.
 
 Depois, inicie o server: `json-server server.json -p 3333`
 
-Agora inicie o aplicativo react: `yarn start`
+Agora inicie o aplicativo react: `yarn start` 
 
