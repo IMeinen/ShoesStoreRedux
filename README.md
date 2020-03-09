@@ -3,10 +3,8 @@
   <img src="/readme-assets/screenshot.png" width="600"/>
 </h1>
 
-Projeto usando ReactJS e json-server.
-
-Para iniciar o "banco de dados" do projeto instale o json-server.
-https://github.com/typicode/json-server
+## Sobre o projeto
+O projeto consiste de um exemplo de loja virtual de tênis. O front-end é feito com ReactJS, as stores são feitas com redux e para lidar com side-effects foi usado o redux-saga.
 
 ## Inciar o projeto
 
